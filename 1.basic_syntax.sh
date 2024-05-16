@@ -10,7 +10,7 @@ pwd
 #git config --global user.name "haah21" //소스코드 누가 업로드 하는지 설정
 #git push origin main
 
-#사용자의 현재 위치 파일 출력
+#사용자의 현재 위치 파일 출력 
 
 pwd
 
